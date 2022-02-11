@@ -1,8 +1,13 @@
 package demoGit1;
 
 public class DemoGit {
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		System.out.println("Hellow");
+	    System.out.println("This is my git program");
+		System.out.println("This is 2nd line");
+		
+		
 	}
 
 }
